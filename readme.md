@@ -1,6 +1,6 @@
 # Encrypted chat using RSA algorithm
 
-![](https://github.com/SarahElzayat/RSA-Secure-Chat/tree/master/logo.png?raw=true)
+![](https://github.com/SarahElzayat/RSA-Secure-Chat/blob/master/logo.png)
 
 ##### Python version
 
